@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Checker Chatbot</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 50px;
+            background-color: #eef2f7;
+            font-family: 'Arial', sans-serif;
+            background-color: #333333;
+        }
+        .chat-container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #7e0606;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+        .chat-header {
+            text-align: center;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #1e4368;
+        }
+        .chat-header img {
+            width: 50px;
+        }
+        .chat-header h1 {
+            font-size: 1.5rem;
+            color: #0d6efd;
+            margin-top: 10px;
+        }
+        .chat-box {
+            height: 400px;
+            overflow-y: auto;
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ced4da;
+            background-color: #01060c;
+            border-radius: 8px;
+        }
+        .chat-box .user {
+            text-align: right;
+            background-color: #0d6efd;
+            color: #ffffff;
+            padding: 10px 15px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+            /* display: inline-block; */
+            max-width: 80%;
+            animation: fadeIn 0.5s;
+        }
+        .chat-box .bot {
+            text-align: left;
+            background-color: #e9ecef;
+            color: #333333;
+            padding: 10px 15px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+            /* display: inline-block; */
+            max-width: 80%;
+            animation: fadeIn 0.5s;
+        }
+        .chat-input {
+            display: flex;
+            margin-top: 20px;
+        }
+        .chat-input input {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        .chat-input button {
+            padding: 12px 20px;
+            margin-left: 10px;
+            border: none;
+            background-color: #0d6efd;
+            color: #ffffff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .chat-input button:hover {
+            background-color: #0056b3;
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <img src="https://cdn-icons-png.flaticon.com/512/2913/2913465.png" alt="Health Bot Logo">
+            <h1>Health Checker Chatbot</h1>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <!-- Chat messages will appear here -->
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-input" class="form-control" placeholder="Describe your symptoms..." />
+            <button id="send-button" class="btn btn-primary">Send</button>
+        </div>
+    </div>
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const userInput = document.getElementById('user-input');
+        const sendButton = document.getElementById('send-button');
+
+        sendButton.addEventListener('click', async () => {
+            const message = userInput.value.trim();
+            if (!message) return;
+
+            // Display user's message
+            chatBox.innerHTML += `<div class="user"><strong>You:</strong> ${message}</div>`;
+            userInput.value = '';
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message }),
+                });
+
+                if (!response.ok) {
+                    const error = await response.json();
+                    chatBox.innerHTML += `<div class="bot"><strong>Bot:</strong> Error: ${error.error || 'Something went wrong.'}</div>`;
+                } else {
+                    const data = await response.json();
+                    chatBox.innerHTML += `<div class="bot"><strong>Bot:</strong> ${data.bot_response}</div>`;
+                }
+            } catch (error) {
+                chatBox.innerHTML += `<div class="bot"><strong>Bot:</strong> Connection error. Please try again.</div>`;
+            }
+
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+
+        userInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter') {
+                sendButton.click();
+            }
+        });
+    </script>
+</body>
+</html>

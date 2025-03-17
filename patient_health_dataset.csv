@@ -1,0 +1,1001 @@
+Age,Gender,BMI,Symptom_1,Symptom_2,Blood_Pressure,Health_Condition
+56,Male,20.5,Chest Pain,Nausea,160/100,Chronic Illness
+69,Male,30.6,Fatigue,None,140/90,Healthy
+46,Female,21.7,Headache,None,150/95,Healthy
+32,Male,20.4,Cough,Shortness of Breath,120/80,Healthy
+60,Male,25.5,Cough,Swelling,150/95,Healthy
+25,Female,31.6,Fatigue,Sneezing,160/100,Healthy
+78,Male,30.8,None,Swelling,130/85,Chronic Illness
+38,Male,19.4,Fever,Shortness of Breath,120/80,Mild Condition
+56,Male,26.0,Headache,None,140/90,Mild Condition
+75,Male,27.1,Cough,Swelling,160/100,Healthy
+36,Male,29.1,Headache,Swelling,130/85,Mild Condition
+40,Female,29.2,Cough,None,150/95,Mild Condition
+28,Male,24.5,Headache,Shortness of Breath,130/85,Healthy
+28,Male,27.8,Chest Pain,None,160/100,Mild Condition
+41,Male,26.4,Cough,Nausea,160/100,Healthy
+70,Male,33.1,Headache,Sneezing,130/85,Chronic Illness
+53,Male,27.2,Fever,None,150/95,Healthy
+57,Female,25.8,Chest Pain,Shortness of Breath,130/85,Emergency
+41,Male,25.2,Chest Pain,Dizziness,160/100,Healthy
+20,Female,27.9,Fever,Nausea,160/100,Mild Condition
+39,Female,31.8,Headache,Dizziness,140/90,Mild Condition
+70,Male,27.4,Fatigue,None,140/90,Mild Condition
+19,Male,29.4,Fever,Nausea,120/80,Healthy
+41,Male,30.7,Headache,Sneezing,160/100,Healthy
+61,Male,27.1,Fever,None,140/90,Mild Condition
+47,Female,25.5,Fever,Sneezing,130/85,Healthy
+55,Male,33.0,Cough,Swelling,150/95,Healthy
+19,Male,25.4,Headache,Dizziness,130/85,Mild Condition
+77,Male,26.1,Fatigue,Nausea,150/95,Mild Condition
+38,Male,34.8,Cough,Sneezing,140/90,Healthy
+50,Male,18.5,Fever,Shortness of Breath,120/80,Healthy
+29,Male,21.6,None,Sneezing,130/85,Healthy
+75,Female,24.8,Fever,Shortness of Breath,130/85,Mild Condition
+39,Female,33.9,Fever,None,130/85,Mild Condition
+78,Male,19.7,Headache,Nausea,150/95,Chronic Illness
+61,Male,18.7,Headache,Sneezing,140/90,Emergency
+42,Male,19.4,Cough,Sneezing,130/85,Healthy
+66,Female,20.0,Fatigue,Nausea,130/85,Healthy
+44,Male,19.1,Cough,Sneezing,120/80,Healthy
+76,Female,26.4,Chest Pain,Shortness of Breath,120/80,Healthy
+59,Male,28.1,Fever,Sneezing,140/90,Chronic Illness
+45,Male,23.0,None,Dizziness,140/90,Mild Condition
+77,Male,25.1,Fever,None,160/100,Healthy
+33,Male,20.0,Fever,Swelling,120/80,Healthy
+32,Female,24.1,Cough,Shortness of Breath,160/100,Mild Condition
+79,Female,27.1,None,Dizziness,150/95,Mild Condition
+79,Male,30.6,None,None,160/100,Healthy
+64,Male,18.6,None,Nausea,130/85,Emergency
+79,Female,26.2,Cough,Shortness of Breath,160/100,Mild Condition
+68,Female,23.4,Fever,Swelling,140/90,Healthy
+61,Female,32.6,Cough,None,150/95,Chronic Illness
+72,Female,30.3,Headache,Swelling,130/85,Healthy
+69,Male,28.2,Headache,Nausea,160/100,Chronic Illness
+74,Female,23.1,Cough,Nausea,150/95,Emergency
+20,Male,33.5,None,Shortness of Breath,150/95,Mild Condition
+54,Female,19.2,Fever,Sneezing,130/85,Mild Condition
+68,Female,20.3,Cough,Nausea,160/100,Healthy
+24,Female,25.0,Cough,None,150/95,Chronic Illness
+38,Female,20.6,Cough,Sneezing,150/95,Mild Condition
+26,Female,34.3,Chest Pain,Dizziness,120/80,Mild Condition
+56,Male,31.7,Headache,Swelling,150/95,Chronic Illness
+35,Male,22.8,None,Sneezing,120/80,Emergency
+21,Female,28.2,Fatigue,Swelling,160/100,Chronic Illness
+42,Female,34.7,None,Sneezing,160/100,Healthy
+77,Male,33.1,Fatigue,Dizziness,160/100,Emergency
+31,Female,28.4,Chest Pain,Nausea,140/90,Mild Condition
+67,Female,33.4,Cough,Dizziness,160/100,Chronic Illness
+75,Male,34.8,Chest Pain,Nausea,150/95,Mild Condition
+26,Female,30.8,Chest Pain,Nausea,130/85,Healthy
+43,Female,19.6,Fever,Swelling,120/80,Healthy
+70,Male,25.1,Headache,None,140/90,Mild Condition
+19,Male,32.3,Fatigue,Dizziness,160/100,Mild Condition
+37,Male,22.3,Cough,Sneezing,160/100,Healthy
+45,Female,32.2,Fatigue,Dizziness,130/85,Mild Condition
+64,Male,20.5,None,Swelling,130/85,Healthy
+77,Male,19.3,Fatigue,Nausea,140/90,Chronic Illness
+24,Male,24.8,None,Swelling,120/80,Healthy
+61,Male,19.1,Headache,Shortness of Breath,160/100,Healthy
+78,Male,34.3,None,Shortness of Breath,140/90,Healthy
+25,Male,32.1,Fatigue,Sneezing,150/95,Healthy
+64,Female,31.7,Fatigue,Swelling,150/95,Healthy
+52,Female,28.9,None,Sneezing,140/90,Healthy
+31,Male,22.1,Chest Pain,Sneezing,160/100,Healthy
+34,Male,27.1,Headache,Shortness of Breath,140/90,Chronic Illness
+53,Male,28.4,Fever,Sneezing,160/100,Chronic Illness
+67,Female,27.2,Cough,Shortness of Breath,130/85,Healthy
+57,Female,22.8,Fatigue,Nausea,140/90,Emergency
+21,Female,27.0,Cough,Swelling,160/100,Healthy
+19,Female,26.6,Fever,Sneezing,140/90,Mild Condition
+79,Female,34.9,Cough,Shortness of Breath,140/90,Mild Condition
+23,Female,33.3,Fever,Dizziness,160/100,Healthy
+71,Female,26.1,None,Sneezing,160/100,Healthy
+59,Female,28.8,Chest Pain,None,120/80,Healthy
+21,Female,30.8,Fatigue,Nausea,140/90,Healthy
+71,Male,19.1,Fever,Nausea,150/95,Mild Condition
+46,Male,33.3,Cough,Dizziness,140/90,Healthy
+35,Male,32.7,Fatigue,Shortness of Breath,140/90,Healthy
+43,Male,26.0,Chest Pain,Sneezing,160/100,Healthy
+61,Female,25.0,None,Shortness of Breath,140/90,Healthy
+51,Female,23.0,Fatigue,Nausea,140/90,Mild Condition
+27,Male,26.4,Fever,Shortness of Breath,150/95,Healthy
+79,Female,19.2,Chest Pain,Nausea,160/100,Chronic Illness
+53,Male,32.6,Cough,Shortness of Breath,140/90,Healthy
+31,Female,19.1,Chest Pain,Dizziness,130/85,Healthy
+48,Male,23.9,Chest Pain,Swelling,120/80,Mild Condition
+65,Female,33.9,Headache,Dizziness,150/95,Healthy
+32,Female,30.6,Chest Pain,Dizziness,140/90,Mild Condition
+25,Male,23.1,Chest Pain,Swelling,130/85,Mild Condition
+31,Female,22.7,Fatigue,Swelling,140/90,Healthy
+40,Male,18.6,Cough,Sneezing,140/90,Healthy
+77,Male,30.0,Fatigue,Sneezing,160/100,Healthy
+74,Male,19.3,Fatigue,Dizziness,160/100,Healthy
+79,Male,27.3,Fever,Dizziness,160/100,Healthy
+57,Female,34.4,Fatigue,Nausea,130/85,Healthy
+38,Female,20.3,Headache,Nausea,140/90,Healthy
+33,Female,33.3,Headache,Sneezing,120/80,Mild Condition
+62,Male,34.9,Fever,None,150/95,Mild Condition
+35,Female,19.5,None,None,160/100,Mild Condition
+64,Male,33.1,Cough,Sneezing,160/100,Healthy
+70,Female,27.0,Cough,Nausea,140/90,Healthy
+41,Female,33.5,Fatigue,Nausea,140/90,Chronic Illness
+43,Female,27.9,Fatigue,None,130/85,Mild Condition
+42,Male,29.4,None,Shortness of Breath,130/85,Chronic Illness
+77,Female,27.5,Fatigue,Shortness of Breath,160/100,Healthy
+77,Female,32.8,Cough,Nausea,140/90,Mild Condition
+77,Male,30.6,Chest Pain,Shortness of Breath,120/80,Mild Condition
+62,Female,27.1,Headache,Swelling,150/95,Healthy
+58,Male,32.8,Chest Pain,Sneezing,140/90,Healthy
+46,Female,22.5,Chest Pain,Sneezing,140/90,Mild Condition
+32,Male,21.1,Cough,Nausea,130/85,Healthy
+62,Male,21.1,Chest Pain,Dizziness,150/95,Healthy
+18,Female,24.0,None,None,160/100,Mild Condition
+42,Male,22.4,Fever,Nausea,140/90,Chronic Illness
+24,Male,33.8,Fatigue,Shortness of Breath,160/100,Healthy
+26,Male,20.2,Fever,None,140/90,Healthy
+41,Male,30.0,Headache,Dizziness,160/100,Healthy
+18,Male,21.6,Fatigue,Shortness of Breath,150/95,Mild Condition
+61,Male,33.0,Chest Pain,Swelling,130/85,Healthy
+25,Female,34.4,Headache,Shortness of Breath,150/95,Emergency
+41,Male,26.2,Fatigue,Swelling,120/80,Healthy
+28,Male,33.0,None,None,130/85,Healthy
+68,Female,18.6,None,Swelling,150/95,Mild Condition
+34,Female,32.0,None,None,120/80,Chronic Illness
+25,Female,22.3,None,None,140/90,Healthy
+52,Female,33.5,Chest Pain,None,140/90,Healthy
+52,Female,18.5,Fever,None,160/100,Emergency
+50,Female,27.7,Fatigue,None,130/85,Healthy
+76,Female,31.0,Chest Pain,Shortness of Breath,140/90,Chronic Illness
+22,Male,22.8,None,None,130/85,Healthy
+59,Male,21.7,Fever,Shortness of Breath,140/90,Mild Condition
+56,Female,19.9,Headache,None,160/100,Mild Condition
+75,Male,23.9,Headache,Swelling,150/95,Healthy
+58,Male,27.7,Headache,None,160/100,Chronic Illness
+45,Male,20.4,None,Dizziness,120/80,Healthy
+24,Female,24.7,Headache,None,140/90,Healthy
+26,Female,18.6,Cough,None,120/80,Mild Condition
+25,Male,32.0,Fatigue,Swelling,120/80,Healthy
+29,Female,20.6,Fatigue,Sneezing,130/85,Mild Condition
+51,Male,23.2,None,Swelling,140/90,Healthy
+50,Male,18.8,Cough,Dizziness,120/80,Healthy
+65,Male,25.6,Chest Pain,Sneezing,150/95,Healthy
+72,Male,32.4,Chest Pain,Nausea,120/80,Healthy
+40,Female,25.0,Headache,Nausea,150/95,Healthy
+79,Female,21.5,Fever,Dizziness,130/85,Mild Condition
+41,Female,30.9,Chest Pain,Swelling,120/80,Chronic Illness
+54,Male,31.5,Fever,Shortness of Breath,160/100,Chronic Illness
+52,Female,21.4,Fatigue,Dizziness,130/85,Healthy
+61,Male,31.2,Fever,Sneezing,150/95,Healthy
+57,Female,34.1,Fatigue,Sneezing,130/85,Healthy
+39,Male,21.2,Cough,None,120/80,Healthy
+44,Male,31.2,Cough,Nausea,140/90,Mild Condition
+52,Male,30.2,None,Sneezing,140/90,Healthy
+18,Female,26.3,None,Dizziness,150/95,Healthy
+52,Female,19.5,Headache,Sneezing,150/95,Chronic Illness
+54,Female,19.7,Chest Pain,Dizziness,140/90,Healthy
+64,Female,32.6,Headache,Shortness of Breath,150/95,Healthy
+31,Male,34.8,Fatigue,None,130/85,Healthy
+20,Female,29.7,Headache,Nausea,160/100,Healthy
+18,Female,25.9,Fever,Sneezing,160/100,Chronic Illness
+22,Male,29.2,Fatigue,Dizziness,130/85,Healthy
+43,Male,28.3,None,Swelling,160/100,Healthy
+72,Male,24.8,Cough,Nausea,120/80,Healthy
+31,Female,19.6,None,Shortness of Breath,130/85,Healthy
+56,Male,32.1,Chest Pain,Dizziness,150/95,Healthy
+44,Male,24.6,Fatigue,None,130/85,Chronic Illness
+26,Male,32.0,Fatigue,None,140/90,Chronic Illness
+32,Female,22.7,Fever,Shortness of Breath,150/95,Mild Condition
+32,Male,18.5,Chest Pain,Shortness of Breath,140/90,Healthy
+43,Female,21.1,Cough,None,150/95,Chronic Illness
+59,Female,26.2,Fatigue,Sneezing,160/100,Mild Condition
+77,Male,34.1,Fatigue,Sneezing,130/85,Healthy
+30,Male,20.2,Fever,Dizziness,120/80,Mild Condition
+68,Female,32.6,Headache,Swelling,150/95,Healthy
+49,Male,27.2,Cough,Dizziness,150/95,Healthy
+56,Male,32.1,None,Swelling,140/90,Mild Condition
+66,Female,23.4,Chest Pain,Shortness of Breath,160/100,Healthy
+69,Female,32.4,Fatigue,Nausea,140/90,Mild Condition
+78,Male,31.3,Fatigue,Dizziness,140/90,Healthy
+49,Female,22.3,None,Dizziness,160/100,Chronic Illness
+21,Male,20.7,Cough,Swelling,120/80,Emergency
+47,Male,32.8,Headache,Shortness of Breath,140/90,Chronic Illness
+54,Male,34.4,Fatigue,Shortness of Breath,140/90,Healthy
+40,Female,19.0,Cough,Swelling,150/95,Healthy
+56,Male,30.6,None,Shortness of Breath,160/100,Healthy
+62,Male,33.5,Fever,None,130/85,Healthy
+32,Male,32.6,Headache,Sneezing,120/80,Healthy
+60,Female,34.4,Chest Pain,None,120/80,Mild Condition
+46,Female,31.0,Fatigue,Nausea,160/100,Mild Condition
+53,Female,25.8,Cough,Dizziness,150/95,Emergency
+30,Female,23.6,Fever,Nausea,150/95,Healthy
+49,Female,23.8,Chest Pain,Dizziness,160/100,Healthy
+24,Male,30.5,Cough,Sneezing,150/95,Healthy
+76,Female,30.8,Cough,Shortness of Breath,120/80,Chronic Illness
+68,Female,21.8,Chest Pain,None,120/80,Mild Condition
+39,Female,32.8,Fever,Swelling,130/85,Chronic Illness
+45,Male,30.3,None,None,160/100,Chronic Illness
+19,Female,27.8,Fever,Sneezing,140/90,Mild Condition
+59,Female,26.3,Headache,Nausea,140/90,Healthy
+62,Male,27.5,Fatigue,Swelling,130/85,Healthy
+79,Female,21.1,Chest Pain,Shortness of Breath,130/85,Mild Condition
+74,Male,21.9,None,Sneezing,150/95,Healthy
+70,Male,20.0,Chest Pain,Swelling,130/85,Healthy
+23,Male,21.0,Chest Pain,Sneezing,130/85,Chronic Illness
+45,Male,26.0,Fever,Sneezing,140/90,Emergency
+45,Male,27.3,Fatigue,Shortness of Breath,150/95,Mild Condition
+61,Female,18.8,Headache,Dizziness,130/85,Mild Condition
+61,Male,31.6,Cough,Swelling,130/85,Mild Condition
+37,Male,23.4,Cough,Shortness of Breath,150/95,Healthy
+47,Female,33.5,Chest Pain,Sneezing,160/100,Healthy
+79,Male,34.5,Fatigue,Shortness of Breath,150/95,Mild Condition
+28,Female,21.6,None,Dizziness,140/90,Mild Condition
+75,Female,26.1,Fever,None,160/100,Healthy
+72,Female,18.5,Fatigue,Swelling,120/80,Chronic Illness
+45,Male,28.4,Fatigue,Dizziness,150/95,Healthy
+42,Male,28.5,Fever,Nausea,140/90,Healthy
+56,Male,22.6,Chest Pain,Swelling,160/100,Mild Condition
+79,Female,27.7,Fatigue,Dizziness,150/95,Healthy
+50,Male,22.2,Cough,Sneezing,130/85,Healthy
+18,Male,21.2,Fever,Swelling,150/95,Healthy
+74,Male,29.3,None,Swelling,120/80,Mild Condition
+44,Female,23.9,Headache,Shortness of Breath,150/95,Healthy
+79,Female,28.2,Chest Pain,Sneezing,160/100,Mild Condition
+74,Male,25.6,Fever,Nausea,160/100,Mild Condition
+69,Male,34.7,Headache,None,150/95,Healthy
+30,Male,21.0,Headache,Dizziness,160/100,Emergency
+58,Male,26.2,None,Shortness of Breath,130/85,Healthy
+20,Female,29.7,Fatigue,Dizziness,150/95,Emergency
+56,Female,25.0,None,Nausea,130/85,Mild Condition
+23,Female,34.6,Fatigue,Nausea,130/85,Emergency
+25,Female,30.4,Fatigue,Swelling,140/90,Healthy
+44,Male,29.3,Fever,Nausea,150/95,Healthy
+26,Male,31.0,Fever,Dizziness,160/100,Healthy
+79,Male,34.2,Chest Pain,Sneezing,130/85,Healthy
+54,Female,33.5,Fatigue,Sneezing,140/90,Mild Condition
+50,Male,30.5,Headache,Swelling,150/95,Healthy
+68,Female,30.9,Cough,None,150/95,Mild Condition
+59,Female,20.9,Chest Pain,Dizziness,120/80,Healthy
+61,Male,20.2,Fever,Dizziness,120/80,Healthy
+41,Male,27.9,None,Nausea,130/85,Mild Condition
+32,Male,18.8,Chest Pain,Dizziness,120/80,Healthy
+76,Female,26.5,Chest Pain,Shortness of Breath,130/85,Mild Condition
+71,Male,22.0,Chest Pain,None,160/100,Mild Condition
+49,Female,24.2,Chest Pain,Nausea,130/85,Chronic Illness
+49,Male,31.3,Cough,Shortness of Breath,120/80,Healthy
+41,Female,34.0,None,Swelling,160/100,Mild Condition
+58,Female,19.7,None,Sneezing,120/80,Emergency
+69,Male,27.3,None,Swelling,130/85,Mild Condition
+66,Female,33.1,Fatigue,Sneezing,140/90,Healthy
+79,Female,19.9,Headache,Swelling,150/95,Mild Condition
+66,Male,32.1,None,Dizziness,120/80,Mild Condition
+75,Female,24.4,Chest Pain,Shortness of Breath,130/85,Mild Condition
+69,Male,23.8,Chest Pain,Sneezing,160/100,Healthy
+29,Female,34.6,None,Nausea,120/80,Healthy
+79,Male,21.8,None,Shortness of Breath,120/80,Chronic Illness
+56,Male,29.9,Chest Pain,Nausea,150/95,Healthy
+19,Female,32.1,Fatigue,Shortness of Breath,130/85,Mild Condition
+20,Female,19.2,Fever,Shortness of Breath,140/90,Healthy
+66,Female,29.6,Fever,Swelling,160/100,Mild Condition
+54,Female,34.2,None,Sneezing,130/85,Healthy
+66,Female,20.5,Cough,Sneezing,160/100,Healthy
+73,Male,33.3,None,Shortness of Breath,120/80,Emergency
+34,Female,28.3,None,Dizziness,150/95,Chronic Illness
+76,Male,28.7,Fever,Dizziness,150/95,Mild Condition
+66,Male,28.6,Chest Pain,Nausea,140/90,Healthy
+19,Female,23.4,None,Nausea,150/95,Mild Condition
+19,Male,33.9,Chest Pain,Swelling,120/80,Mild Condition
+45,Male,34.1,Chest Pain,Shortness of Breath,140/90,Mild Condition
+71,Male,28.8,Cough,Nausea,130/85,Healthy
+40,Male,31.4,Chest Pain,Nausea,150/95,Mild Condition
+54,Female,28.6,Fever,None,140/90,Mild Condition
+49,Male,26.5,Fatigue,Shortness of Breath,120/80,Emergency
+50,Female,29.4,Fatigue,Swelling,160/100,Healthy
+18,Female,27.6,Headache,Nausea,160/100,Mild Condition
+36,Male,28.4,None,Swelling,120/80,Mild Condition
+79,Female,31.4,Fever,Sneezing,120/80,Healthy
+19,Female,26.4,Chest Pain,Swelling,160/100,Healthy
+70,Female,19.2,Fatigue,Dizziness,140/90,Healthy
+61,Male,21.2,Fever,Dizziness,160/100,Healthy
+43,Female,25.7,Fatigue,Swelling,120/80,Healthy
+49,Female,30.5,Chest Pain,Dizziness,150/95,Mild Condition
+23,Female,28.3,Fatigue,Sneezing,130/85,Mild Condition
+49,Male,29.2,None,Shortness of Breath,150/95,Mild Condition
+72,Female,26.4,None,Dizziness,150/95,Chronic Illness
+21,Male,28.7,Headache,Dizziness,120/80,Healthy
+72,Male,23.9,Headache,Swelling,160/100,Healthy
+28,Male,26.3,Fatigue,Sneezing,140/90,Mild Condition
+73,Male,30.8,Fever,Shortness of Breath,150/95,Healthy
+76,Male,32.9,None,Swelling,160/100,Healthy
+34,Male,25.7,Fever,Swelling,140/90,Healthy
+55,Female,19.2,Fever,None,150/95,Healthy
+41,Male,21.2,Fatigue,Sneezing,140/90,Chronic Illness
+22,Female,18.8,Fever,Shortness of Breath,160/100,Healthy
+69,Female,29.3,None,Sneezing,130/85,Healthy
+51,Male,24.0,Chest Pain,Shortness of Breath,160/100,Healthy
+23,Female,27.5,Headache,Sneezing,120/80,Mild Condition
+39,Female,26.6,Chest Pain,Swelling,140/90,Healthy
+28,Female,19.8,Fever,Swelling,130/85,Mild Condition
+65,Female,25.2,Chest Pain,Nausea,140/90,Healthy
+33,Male,22.1,None,Dizziness,140/90,Healthy
+50,Female,25.4,None,None,150/95,Mild Condition
+26,Male,21.9,Fever,Sneezing,120/80,Healthy
+77,Female,32.4,Fatigue,None,140/90,Healthy
+76,Female,21.4,Chest Pain,Nausea,160/100,Healthy
+23,Male,34.4,Fatigue,Dizziness,160/100,Chronic Illness
+33,Female,25.4,Fatigue,Sneezing,150/95,Healthy
+46,Female,32.5,Cough,Shortness of Breath,120/80,Mild Condition
+20,Female,28.9,Fever,Dizziness,120/80,Healthy
+37,Male,30.6,Headache,Swelling,160/100,Healthy
+77,Female,31.2,None,Nausea,130/85,Healthy
+76,Male,26.8,None,Dizziness,150/95,Chronic Illness
+53,Female,27.5,Fever,Dizziness,150/95,Healthy
+36,Male,27.0,Headache,Swelling,160/100,Healthy
+43,Male,28.2,None,Sneezing,160/100,Healthy
+20,Female,19.0,Fever,Shortness of Breath,130/85,Healthy
+36,Female,25.0,None,Swelling,130/85,Healthy
+37,Male,28.5,Fatigue,Shortness of Breath,120/80,Mild Condition
+49,Male,28.4,Chest Pain,Sneezing,150/95,Healthy
+24,Female,31.6,Chest Pain,Dizziness,150/95,Healthy
+69,Male,29.3,None,Shortness of Breath,160/100,Mild Condition
+58,Female,34.9,Cough,Nausea,120/80,Healthy
+50,Female,23.2,Headache,Nausea,150/95,Healthy
+57,Female,24.4,Headache,Swelling,120/80,Healthy
+56,Female,24.8,Headache,Sneezing,120/80,Mild Condition
+35,Male,26.2,Fatigue,Swelling,160/100,Healthy
+57,Female,32.3,Headache,Swelling,120/80,Healthy
+18,Male,22.4,Chest Pain,None,130/85,Healthy
+28,Female,31.3,Fatigue,Swelling,130/85,Mild Condition
+45,Male,25.2,Fever,None,140/90,Healthy
+74,Female,28.4,Headache,Nausea,160/100,Mild Condition
+42,Male,28.9,Headache,Nausea,140/90,Chronic Illness
+67,Male,24.7,Fever,Swelling,130/85,Mild Condition
+40,Female,27.0,Headache,Nausea,140/90,Healthy
+48,Female,25.3,Fever,Sneezing,160/100,Healthy
+47,Female,19.6,Fatigue,None,160/100,Healthy
+59,Female,25.7,Chest Pain,None,120/80,Healthy
+52,Male,20.1,Fever,Swelling,150/95,Healthy
+24,Female,25.2,Cough,Nausea,120/80,Mild Condition
+77,Male,28.3,Fever,Shortness of Breath,160/100,Healthy
+33,Male,28.1,Headache,None,130/85,Healthy
+43,Female,29.4,Fatigue,Swelling,130/85,Mild Condition
+65,Male,20.1,None,Swelling,120/80,Mild Condition
+74,Male,29.3,Fatigue,Sneezing,160/100,Healthy
+69,Male,23.7,None,Dizziness,130/85,Chronic Illness
+77,Male,25.1,Fever,Dizziness,160/100,Healthy
+66,Female,32.7,Chest Pain,None,130/85,Mild Condition
+19,Female,18.6,Cough,Sneezing,160/100,Mild Condition
+18,Female,28.2,Fatigue,Sneezing,140/90,Mild Condition
+65,Female,28.4,Headache,Sneezing,160/100,Mild Condition
+79,Male,25.0,None,None,160/100,Healthy
+29,Male,22.4,Headache,Dizziness,120/80,Healthy
+22,Female,22.4,Chest Pain,Sneezing,140/90,Mild Condition
+54,Female,33.1,None,Nausea,150/95,Healthy
+49,Female,25.8,Fatigue,Swelling,120/80,Chronic Illness
+76,Male,24.0,Fever,Swelling,150/95,Healthy
+72,Female,25.9,Headache,Shortness of Breath,130/85,Healthy
+26,Female,29.5,Chest Pain,Shortness of Breath,150/95,Healthy
+58,Female,20.9,Fatigue,None,160/100,Healthy
+52,Male,25.9,Fatigue,None,150/95,Mild Condition
+36,Male,28.2,Fatigue,Swelling,120/80,Mild Condition
+65,Male,34.2,Fatigue,Nausea,120/80,Mild Condition
+33,Male,22.7,None,Dizziness,150/95,Chronic Illness
+20,Male,24.4,Fatigue,Dizziness,120/80,Chronic Illness
+37,Male,24.8,Headache,None,120/80,Chronic Illness
+41,Male,28.5,Chest Pain,Nausea,150/95,Healthy
+71,Male,24.4,None,None,140/90,Mild Condition
+73,Female,27.3,Fatigue,Dizziness,140/90,Healthy
+50,Female,31.4,Cough,None,130/85,Healthy
+41,Male,30.1,Cough,Sneezing,120/80,Mild Condition
+69,Male,25.9,Chest Pain,None,150/95,Healthy
+28,Female,32.8,Fever,Swelling,120/80,Healthy
+66,Male,27.7,Fever,None,160/100,Healthy
+25,Male,27.4,None,Swelling,120/80,Healthy
+53,Male,19.1,None,Nausea,120/80,Chronic Illness
+55,Female,34.8,None,Dizziness,140/90,Healthy
+57,Female,20.5,Fever,Shortness of Breath,150/95,Healthy
+37,Female,22.3,Cough,Shortness of Breath,120/80,Healthy
+79,Female,19.4,Fever,Dizziness,140/90,Healthy
+52,Female,29.1,Headache,Shortness of Breath,130/85,Chronic Illness
+65,Male,22.2,Fatigue,None,140/90,Healthy
+79,Female,21.5,None,Nausea,140/90,Mild Condition
+42,Male,20.0,Cough,Nausea,140/90,Mild Condition
+52,Male,20.2,Chest Pain,Dizziness,120/80,Chronic Illness
+42,Female,28.1,Chest Pain,Shortness of Breath,120/80,Mild Condition
+46,Female,29.9,Fatigue,None,130/85,Chronic Illness
+35,Male,25.1,Cough,Nausea,160/100,Healthy
+63,Male,26.4,Fever,Nausea,160/100,Healthy
+35,Male,29.8,Fever,Sneezing,160/100,Healthy
+19,Female,18.8,Headache,Sneezing,130/85,Chronic Illness
+71,Female,23.8,Headache,Nausea,160/100,Healthy
+52,Female,34.6,Fever,Dizziness,160/100,Healthy
+33,Female,28.1,Chest Pain,Swelling,140/90,Healthy
+78,Female,22.7,None,Swelling,120/80,Healthy
+58,Male,27.1,Chest Pain,None,120/80,Healthy
+53,Female,24.2,Headache,Nausea,140/90,Emergency
+50,Male,27.3,Fatigue,Nausea,140/90,Healthy
+21,Male,20.6,Fever,Nausea,140/90,Mild Condition
+50,Male,20.7,Headache,Dizziness,120/80,Mild Condition
+31,Female,20.9,Headache,Sneezing,160/100,Healthy
+38,Female,34.0,None,Nausea,140/90,Healthy
+65,Female,30.6,Fever,Nausea,130/85,Healthy
+37,Male,21.2,None,Shortness of Breath,140/90,Healthy
+73,Male,21.6,Fever,Dizziness,150/95,Mild Condition
+25,Male,30.6,None,None,140/90,Healthy
+24,Male,21.1,Chest Pain,Nausea,120/80,Healthy
+20,Male,22.4,Fatigue,Shortness of Breath,140/90,Mild Condition
+34,Male,34.4,Fatigue,Swelling,150/95,Chronic Illness
+50,Female,22.7,Fever,None,130/85,Chronic Illness
+65,Female,29.4,Cough,Nausea,160/100,Chronic Illness
+29,Female,34.6,Headache,Nausea,140/90,Mild Condition
+76,Female,24.7,Headache,Shortness of Breath,150/95,Healthy
+68,Male,18.8,Fever,Dizziness,150/95,Mild Condition
+39,Male,22.5,None,Nausea,130/85,Healthy
+72,Female,32.2,Cough,Swelling,120/80,Mild Condition
+39,Male,32.8,Chest Pain,Nausea,140/90,Mild Condition
+63,Female,31.2,None,Swelling,150/95,Healthy
+47,Female,20.4,None,None,130/85,Mild Condition
+55,Female,31.6,Fever,None,160/100,Chronic Illness
+55,Male,33.7,Fever,Sneezing,150/95,Healthy
+62,Female,28.4,Headache,Sneezing,130/85,Chronic Illness
+68,Female,34.0,Fever,Swelling,120/80,Healthy
+71,Female,32.1,Fever,Dizziness,120/80,Mild Condition
+25,Male,29.5,Fever,Nausea,150/95,Healthy
+44,Male,28.0,Headache,Nausea,150/95,Mild Condition
+44,Female,24.3,Chest Pain,Sneezing,140/90,Chronic Illness
+51,Male,21.1,Chest Pain,Swelling,130/85,Chronic Illness
+38,Male,28.5,Fever,Nausea,150/95,Mild Condition
+47,Male,23.7,Headache,Nausea,140/90,Healthy
+50,Male,32.8,Chest Pain,Dizziness,140/90,Chronic Illness
+45,Male,34.9,None,Shortness of Breath,150/95,Healthy
+64,Male,30.9,Chest Pain,Sneezing,120/80,Chronic Illness
+50,Male,20.0,Chest Pain,Sneezing,130/85,Healthy
+22,Male,23.3,Headache,Shortness of Breath,130/85,Healthy
+77,Male,20.3,None,Nausea,120/80,Mild Condition
+78,Male,29.2,Headache,Dizziness,150/95,Healthy
+65,Female,31.1,Fever,Dizziness,130/85,Healthy
+36,Female,33.8,Fatigue,Sneezing,150/95,Healthy
+21,Male,25.7,Chest Pain,Dizziness,150/95,Healthy
+52,Female,33.4,Fatigue,None,140/90,Healthy
+66,Female,33.0,Headache,Shortness of Breath,120/80,Healthy
+34,Male,23.7,Headache,Nausea,150/95,Healthy
+61,Male,32.8,Headache,None,160/100,Healthy
+45,Male,24.7,Fatigue,Shortness of Breath,120/80,Mild Condition
+47,Female,23.4,Headache,Swelling,130/85,Healthy
+46,Female,29.2,Fever,Sneezing,140/90,Chronic Illness
+63,Male,23.9,Headache,Dizziness,130/85,Chronic Illness
+70,Male,28.9,Cough,Swelling,130/85,Healthy
+23,Male,28.6,Fatigue,Dizziness,120/80,Mild Condition
+52,Female,27.8,Cough,None,130/85,Chronic Illness
+77,Female,24.8,Headache,Nausea,150/95,Emergency
+58,Female,27.6,Fever,Nausea,130/85,Mild Condition
+54,Female,28.3,Chest Pain,Nausea,140/90,Healthy
+41,Male,27.5,None,Dizziness,140/90,Mild Condition
+46,Male,25.8,None,Swelling,160/100,Mild Condition
+66,Male,18.7,Headache,Nausea,140/90,Mild Condition
+63,Male,28.2,Fever,Swelling,130/85,Healthy
+70,Female,21.3,Fatigue,Dizziness,140/90,Chronic Illness
+48,Female,29.1,Cough,None,120/80,Emergency
+52,Male,31.0,Cough,Swelling,140/90,Healthy
+77,Male,26.8,Cough,None,150/95,Healthy
+50,Female,27.4,Fatigue,Dizziness,120/80,Healthy
+69,Male,34.2,None,Dizziness,160/100,Chronic Illness
+78,Female,32.5,Fever,Sneezing,150/95,Mild Condition
+38,Male,33.6,Fatigue,Dizziness,130/85,Mild Condition
+49,Male,31.9,Cough,Dizziness,130/85,Healthy
+40,Male,20.3,Headache,Shortness of Breath,130/85,Mild Condition
+50,Male,21.0,Chest Pain,Nausea,150/95,Healthy
+20,Male,27.2,Fatigue,Sneezing,150/95,Healthy
+35,Male,22.6,Fatigue,Sneezing,150/95,Mild Condition
+42,Male,26.4,Fever,Sneezing,120/80,Emergency
+59,Female,25.0,Fever,Shortness of Breath,120/80,Chronic Illness
+48,Female,27.6,Fatigue,None,130/85,Chronic Illness
+71,Female,30.8,Cough,Dizziness,140/90,Healthy
+75,Female,30.3,Chest Pain,Nausea,130/85,Healthy
+20,Female,27.1,Fever,Swelling,160/100,Mild Condition
+57,Male,32.1,Cough,None,120/80,Chronic Illness
+63,Male,25.6,Headache,Dizziness,150/95,Healthy
+41,Female,33.3,Fever,Shortness of Breath,120/80,Healthy
+67,Male,19.7,Cough,Dizziness,150/95,Healthy
+49,Female,34.3,Cough,Dizziness,160/100,Mild Condition
+64,Female,29.3,Chest Pain,Shortness of Breath,160/100,Healthy
+39,Male,24.8,Chest Pain,Sneezing,120/80,Healthy
+40,Male,21.8,Headache,Sneezing,150/95,Healthy
+19,Male,26.4,Cough,Nausea,160/100,Healthy
+44,Female,21.7,None,Nausea,130/85,Chronic Illness
+59,Male,21.2,Cough,Sneezing,130/85,Healthy
+19,Female,28.7,Chest Pain,None,150/95,Mild Condition
+43,Female,27.1,None,Swelling,120/80,Mild Condition
+34,Female,29.6,Fever,Dizziness,160/100,Chronic Illness
+57,Male,33.8,Fever,Swelling,120/80,Healthy
+50,Male,27.3,Fatigue,Dizziness,130/85,Emergency
+26,Female,28.1,Chest Pain,Sneezing,160/100,Mild Condition
+60,Male,20.0,Fatigue,Nausea,120/80,Emergency
+71,Male,30.3,None,None,140/90,Chronic Illness
+65,Male,25.1,Chest Pain,Nausea,150/95,Healthy
+56,Female,34.6,Headache,Swelling,150/95,Healthy
+46,Female,32.1,Cough,Nausea,140/90,Healthy
+59,Male,27.1,Headache,Sneezing,130/85,Mild Condition
+72,Female,20.5,None,None,160/100,Healthy
+43,Male,32.7,Chest Pain,Swelling,150/95,Healthy
+52,Male,31.7,None,None,140/90,Healthy
+67,Male,21.5,Cough,Dizziness,140/90,Healthy
+42,Male,23.4,Fever,Nausea,130/85,Healthy
+41,Female,31.6,Fever,None,130/85,Healthy
+30,Female,21.6,None,Shortness of Breath,120/80,Healthy
+77,Female,33.6,Fatigue,Nausea,150/95,Healthy
+75,Male,25.5,Chest Pain,Dizziness,120/80,Healthy
+24,Male,19.9,Chest Pain,None,140/90,Healthy
+74,Male,32.0,Fever,Swelling,160/100,Chronic Illness
+53,Female,24.7,Headache,Dizziness,160/100,Mild Condition
+62,Male,27.2,Cough,Shortness of Breath,130/85,Healthy
+37,Female,20.4,Headache,None,160/100,Healthy
+18,Female,18.5,Headache,Sneezing,160/100,Chronic Illness
+25,Female,29.0,None,Nausea,160/100,Chronic Illness
+63,Female,27.0,Fever,Swelling,140/90,Chronic Illness
+33,Female,28.3,Fever,Sneezing,160/100,Mild Condition
+31,Female,31.6,Fever,None,160/100,Healthy
+29,Male,29.2,None,None,160/100,Healthy
+68,Male,21.4,Fatigue,Dizziness,120/80,Healthy
+40,Female,24.5,Headache,None,140/90,Chronic Illness
+32,Female,33.4,None,Swelling,130/85,Mild Condition
+45,Male,31.2,Chest Pain,Sneezing,120/80,Mild Condition
+51,Female,27.7,Cough,Swelling,150/95,Healthy
+19,Female,22.7,Fatigue,Shortness of Breath,140/90,Chronic Illness
+49,Male,23.5,Chest Pain,Shortness of Breath,140/90,Healthy
+40,Female,30.6,Headache,Nausea,150/95,Healthy
+39,Female,32.5,Fever,Nausea,150/95,Healthy
+68,Female,29.6,Headache,Shortness of Breath,150/95,Mild Condition
+42,Male,31.9,None,None,130/85,Healthy
+75,Male,31.1,Cough,Swelling,160/100,Chronic Illness
+79,Male,21.0,None,Shortness of Breath,140/90,Healthy
+78,Female,25.5,Fatigue,Nausea,160/100,Mild Condition
+39,Female,21.0,Fatigue,Shortness of Breath,160/100,Mild Condition
+75,Male,22.4,Cough,None,150/95,Healthy
+75,Female,32.8,Chest Pain,Shortness of Breath,130/85,Chronic Illness
+39,Female,26.3,Chest Pain,Swelling,120/80,Mild Condition
+66,Female,27.3,Fatigue,Sneezing,130/85,Mild Condition
+69,Female,21.4,Fatigue,None,160/100,Chronic Illness
+59,Female,23.7,Fever,Nausea,130/85,Mild Condition
+23,Male,22.3,Chest Pain,Swelling,150/95,Healthy
+32,Female,21.9,Cough,Shortness of Breath,120/80,Mild Condition
+71,Male,29.0,Chest Pain,Shortness of Breath,150/95,Healthy
+60,Female,22.7,Fever,Sneezing,120/80,Healthy
+77,Male,28.9,None,Nausea,160/100,Healthy
+54,Female,19.5,Fatigue,Nausea,120/80,Mild Condition
+50,Male,20.8,Fatigue,Dizziness,120/80,Mild Condition
+25,Female,23.0,Fever,Nausea,120/80,Healthy
+70,Male,28.4,Cough,Sneezing,130/85,Mild Condition
+77,Female,29.7,Fatigue,Dizziness,130/85,Chronic Illness
+61,Male,25.8,Headache,Dizziness,160/100,Healthy
+61,Female,25.9,Fatigue,Shortness of Breath,120/80,Healthy
+22,Male,30.5,Headache,Shortness of Breath,140/90,Mild Condition
+56,Male,18.8,Fever,Nausea,160/100,Healthy
+21,Female,24.1,Fever,Dizziness,120/80,Mild Condition
+23,Female,32.0,Fatigue,Shortness of Breath,120/80,Healthy
+62,Male,28.5,Chest Pain,Sneezing,130/85,Healthy
+49,Female,24.1,Headache,Shortness of Breath,160/100,Mild Condition
+69,Male,33.4,Cough,None,120/80,Mild Condition
+47,Male,31.2,Fatigue,None,120/80,Chronic Illness
+64,Male,22.9,Cough,Shortness of Breath,160/100,Chronic Illness
+52,Female,29.1,Fatigue,Dizziness,140/90,Mild Condition
+72,Male,28.3,Chest Pain,Dizziness,160/100,Mild Condition
+57,Male,25.1,Chest Pain,Swelling,160/100,Healthy
+69,Female,24.6,Chest Pain,None,140/90,Mild Condition
+33,Female,24.2,None,Sneezing,160/100,Healthy
+30,Female,28.7,Chest Pain,Dizziness,120/80,Chronic Illness
+67,Female,25.8,Fever,Nausea,160/100,Healthy
+77,Male,32.2,Fever,None,140/90,Mild Condition
+59,Male,29.5,None,Sneezing,150/95,Healthy
+47,Male,19.7,Headache,Sneezing,160/100,Mild Condition
+36,Male,29.1,Cough,Dizziness,130/85,Chronic Illness
+34,Female,23.0,Fatigue,Sneezing,120/80,Healthy
+73,Male,28.3,Fatigue,Dizziness,120/80,Chronic Illness
+36,Male,29.7,None,Shortness of Breath,130/85,Healthy
+45,Female,22.3,Fever,None,130/85,Mild Condition
+75,Male,26.0,Fatigue,Swelling,160/100,Chronic Illness
+72,Male,21.6,Fever,Shortness of Breath,130/85,Healthy
+43,Male,19.4,Headache,None,150/95,Emergency
+54,Male,24.7,Cough,Dizziness,140/90,Healthy
+43,Male,24.5,Headache,None,130/85,Healthy
+70,Male,34.9,None,Dizziness,130/85,Chronic Illness
+79,Female,25.9,Chest Pain,Shortness of Breath,150/95,Healthy
+40,Female,24.0,Chest Pain,Nausea,120/80,Emergency
+26,Male,28.1,Chest Pain,Nausea,120/80,Emergency
+29,Male,20.0,Headache,None,160/100,Healthy
+70,Female,34.4,Fatigue,Nausea,150/95,Mild Condition
+18,Male,29.0,Cough,Dizziness,140/90,Healthy
+75,Male,31.0,Chest Pain,Sneezing,140/90,Healthy
+75,Male,21.3,None,Dizziness,150/95,Healthy
+18,Female,25.3,None,Sneezing,140/90,Healthy
+64,Male,25.5,Chest Pain,Shortness of Breath,120/80,Healthy
+51,Female,32.1,Chest Pain,Swelling,140/90,Healthy
+49,Male,18.5,Cough,Sneezing,140/90,Emergency
+79,Female,23.5,Chest Pain,Nausea,150/95,Chronic Illness
+71,Female,34.7,Cough,Dizziness,150/95,Mild Condition
+65,Male,26.3,None,Shortness of Breath,140/90,Mild Condition
+42,Female,24.8,Chest Pain,Nausea,130/85,Chronic Illness
+57,Male,20.5,Headache,Shortness of Breath,150/95,Healthy
+62,Female,34.6,Headache,Swelling,160/100,Mild Condition
+70,Male,18.8,None,Dizziness,160/100,Emergency
+18,Male,30.7,Cough,None,120/80,Healthy
+33,Female,31.2,Headache,Dizziness,140/90,Mild Condition
+78,Male,22.5,Cough,Swelling,130/85,Chronic Illness
+56,Male,29.6,Headache,Dizziness,120/80,Chronic Illness
+22,Female,20.0,Headache,None,140/90,Mild Condition
+39,Male,22.7,Cough,Sneezing,150/95,Healthy
+46,Male,31.5,Fatigue,Shortness of Breath,160/100,Healthy
+72,Female,32.8,Headache,None,130/85,Healthy
+20,Female,28.5,Chest Pain,Nausea,160/100,Mild Condition
+29,Male,26.9,None,Swelling,150/95,Healthy
+43,Male,21.1,Fatigue,Sneezing,140/90,Chronic Illness
+33,Female,19.5,Cough,Nausea,150/95,Healthy
+68,Female,20.4,Fatigue,Nausea,150/95,Healthy
+54,Male,22.3,Fever,Swelling,160/100,Healthy
+39,Female,24.1,Fever,Sneezing,130/85,Mild Condition
+74,Male,24.8,Headache,Nausea,150/95,Healthy
+46,Male,24.2,Headache,Nausea,160/100,Healthy
+31,Male,22.4,Chest Pain,Sneezing,130/85,Healthy
+45,Male,26.9,None,Dizziness,140/90,Healthy
+22,Male,32.1,Fatigue,Nausea,140/90,Healthy
+64,Female,23.1,Fever,Shortness of Breath,120/80,Chronic Illness
+66,Female,34.0,Headache,Sneezing,160/100,Mild Condition
+47,Female,32.9,None,Nausea,130/85,Healthy
+63,Female,21.2,Fatigue,Swelling,150/95,Chronic Illness
+79,Male,31.5,Headache,None,140/90,Emergency
+69,Male,28.0,Headache,Shortness of Breath,130/85,Mild Condition
+22,Male,27.8,Fever,None,160/100,Mild Condition
+29,Male,25.0,Fever,None,120/80,Chronic Illness
+33,Female,26.8,Headache,Nausea,140/90,Emergency
+43,Male,25.1,Cough,Shortness of Breath,130/85,Mild Condition
+43,Male,27.4,Headache,Shortness of Breath,130/85,Healthy
+65,Female,28.9,None,Dizziness,130/85,Mild Condition
+38,Female,29.6,Headache,None,160/100,Mild Condition
+56,Female,27.3,Chest Pain,Shortness of Breath,160/100,Healthy
+53,Female,30.4,Chest Pain,Dizziness,160/100,Healthy
+50,Male,20.8,Chest Pain,Sneezing,150/95,Chronic Illness
+79,Male,22.0,Cough,Dizziness,130/85,Mild Condition
+47,Female,32.0,Cough,Swelling,140/90,Healthy
+54,Male,23.8,Headache,Nausea,160/100,Mild Condition
+40,Male,18.9,Chest Pain,Sneezing,160/100,Healthy
+75,Male,21.0,Cough,Sneezing,130/85,Healthy
+27,Female,22.2,Fever,Swelling,160/100,Mild Condition
+71,Male,34.3,Headache,Dizziness,150/95,Healthy
+22,Female,28.0,None,Nausea,150/95,Healthy
+53,Male,33.9,Fatigue,Dizziness,160/100,Emergency
+51,Male,28.0,Headache,Shortness of Breath,130/85,Healthy
+69,Male,26.4,Fatigue,Dizziness,130/85,Healthy
+48,Female,23.7,Chest Pain,Sneezing,130/85,Emergency
+27,Male,28.5,Fatigue,Nausea,120/80,Mild Condition
+75,Female,20.8,Chest Pain,Dizziness,160/100,Mild Condition
+36,Female,33.3,Fever,Nausea,130/85,Chronic Illness
+75,Female,32.2,Fatigue,Nausea,150/95,Healthy
+49,Male,23.7,Headache,Shortness of Breath,140/90,Mild Condition
+18,Male,34.2,Chest Pain,Shortness of Breath,140/90,Mild Condition
+73,Male,32.1,Headache,Sneezing,130/85,Chronic Illness
+22,Male,29.5,Cough,Swelling,140/90,Mild Condition
+62,Female,20.5,Chest Pain,Nausea,140/90,Mild Condition
+21,Female,26.4,Fatigue,Swelling,120/80,Healthy
+33,Female,26.9,Chest Pain,Sneezing,150/95,Healthy
+41,Male,22.3,Headache,Nausea,150/95,Mild Condition
+33,Female,19.8,Fever,Nausea,120/80,Mild Condition
+72,Male,31.3,Chest Pain,None,120/80,Mild Condition
+19,Female,20.5,Fatigue,Swelling,140/90,Healthy
+66,Male,28.3,Cough,Dizziness,160/100,Mild Condition
+45,Male,34.0,None,Shortness of Breath,140/90,Mild Condition
+49,Female,33.0,Fever,Dizziness,120/80,Chronic Illness
+44,Female,23.1,Cough,Swelling,150/95,Mild Condition
+37,Female,32.5,Chest Pain,Shortness of Breath,140/90,Chronic Illness
+41,Female,18.5,Headache,Dizziness,160/100,Chronic Illness
+29,Male,18.8,Headache,None,140/90,Mild Condition
+67,Female,28.4,Fatigue,Shortness of Breath,130/85,Mild Condition
+52,Female,24.5,Headache,Nausea,140/90,Chronic Illness
+77,Female,24.9,Fever,Dizziness,120/80,Mild Condition
+50,Male,27.8,Headache,Shortness of Breath,150/95,Chronic Illness
+50,Male,21.7,Fatigue,None,150/95,Mild Condition
+78,Female,22.0,None,Shortness of Breath,120/80,Mild Condition
+68,Male,26.5,Chest Pain,Shortness of Breath,130/85,Healthy
+60,Female,30.9,Chest Pain,None,120/80,Healthy
+54,Male,28.7,Headache,Dizziness,140/90,Emergency
+29,Male,23.4,Cough,Sneezing,120/80,Mild Condition
+20,Male,25.6,Chest Pain,Dizziness,120/80,Mild Condition
+18,Male,21.3,None,Swelling,130/85,Chronic Illness
+50,Female,19.7,Headache,None,140/90,Mild Condition
+57,Female,31.4,Fatigue,Dizziness,160/100,Mild Condition
+27,Female,22.9,None,Shortness of Breath,160/100,Mild Condition
+60,Male,21.4,Headache,None,150/95,Mild Condition
+61,Female,29.9,None,Nausea,120/80,Healthy
+46,Female,28.7,Chest Pain,Dizziness,150/95,Healthy
+30,Female,28.9,Fatigue,None,130/85,Healthy
+29,Male,22.3,Headache,Dizziness,160/100,Healthy
+48,Male,22.3,Fever,None,120/80,Mild Condition
+63,Male,22.1,Fatigue,Shortness of Breath,130/85,Healthy
+19,Female,21.4,Fever,Nausea,130/85,Healthy
+78,Female,29.3,None,Nausea,120/80,Healthy
+68,Female,32.5,Cough,Swelling,130/85,Healthy
+67,Male,30.5,Fatigue,None,120/80,Mild Condition
+52,Male,31.6,None,Dizziness,120/80,Chronic Illness
+40,Female,25.2,Fever,Nausea,140/90,Mild Condition
+34,Male,29.3,Chest Pain,Nausea,150/95,Healthy
+43,Male,24.3,Chest Pain,Sneezing,130/85,Healthy
+25,Male,27.2,Cough,Sneezing,130/85,Healthy
+46,Male,26.4,Fatigue,Nausea,140/90,Mild Condition
+43,Female,21.4,Fatigue,None,140/90,Healthy
+27,Male,24.9,Fatigue,Swelling,140/90,Mild Condition
+43,Male,34.4,None,Nausea,160/100,Healthy
+79,Male,22.6,Cough,Shortness of Breath,160/100,Chronic Illness
+51,Male,20.7,Fatigue,Dizziness,160/100,Healthy
+68,Female,25.4,None,Swelling,120/80,Healthy
+58,Female,31.5,Chest Pain,Shortness of Breath,130/85,Chronic Illness
+24,Male,28.1,Fever,Swelling,150/95,Healthy
+21,Male,29.7,None,Shortness of Breath,120/80,Healthy
+75,Male,21.6,Chest Pain,Dizziness,130/85,Mild Condition
+70,Male,28.7,Chest Pain,Dizziness,130/85,Mild Condition
+67,Male,23.8,Fever,Sneezing,140/90,Mild Condition
+62,Male,32.3,Chest Pain,None,140/90,Healthy
+28,Female,28.9,Cough,Shortness of Breath,120/80,Healthy
+46,Male,21.8,Fever,Sneezing,140/90,Healthy
+73,Female,19.6,Chest Pain,Shortness of Breath,130/85,Healthy
+53,Female,19.2,Headache,Sneezing,140/90,Chronic Illness
+42,Male,24.6,None,Dizziness,160/100,Mild Condition
+38,Female,22.9,Chest Pain,Swelling,140/90,Healthy
+78,Female,29.2,Cough,Sneezing,130/85,Mild Condition
+74,Female,26.7,Fatigue,Shortness of Breath,120/80,Healthy
+53,Female,22.9,Chest Pain,Shortness of Breath,150/95,Chronic Illness
+27,Female,21.0,Fatigue,None,140/90,Healthy
+54,Female,20.6,Headache,Dizziness,130/85,Healthy
+26,Male,32.8,Chest Pain,Shortness of Breath,150/95,Mild Condition
+41,Female,22.5,Fever,Nausea,150/95,Mild Condition
+52,Female,29.3,Fatigue,Swelling,160/100,Mild Condition
+66,Female,31.9,Headache,Sneezing,150/95,Healthy
+52,Male,28.6,Fever,None,130/85,Healthy
+65,Female,32.7,Fever,Swelling,130/85,Healthy
+53,Male,25.0,Fever,Dizziness,140/90,Healthy
+35,Female,34.3,Fever,None,140/90,Chronic Illness
+66,Male,20.7,Chest Pain,Sneezing,140/90,Healthy
+56,Male,20.2,None,Sneezing,150/95,Healthy
+49,Female,29.4,Chest Pain,Nausea,150/95,Mild Condition
+41,Female,34.1,Chest Pain,Dizziness,160/100,Healthy
+40,Male,31.8,Headache,None,140/90,Mild Condition
+79,Female,19.8,Headache,None,120/80,Chronic Illness
+49,Male,23.1,None,Shortness of Breath,160/100,Healthy
+54,Male,33.9,Headache,Nausea,120/80,Chronic Illness
+29,Male,22.7,Cough,Nausea,150/95,Mild Condition
+66,Male,31.4,None,None,160/100,Healthy
+72,Male,32.1,Headache,None,160/100,Healthy
+30,Female,26.7,None,Swelling,130/85,Healthy
+40,Male,24.9,Chest Pain,Swelling,150/95,Mild Condition
+42,Male,25.9,Chest Pain,Swelling,150/95,Mild Condition
+52,Female,22.2,None,Nausea,160/100,Chronic Illness
+58,Male,33.2,Cough,Shortness of Breath,150/95,Emergency
+47,Female,25.9,Cough,Sneezing,160/100,Mild Condition
+34,Female,33.1,None,Swelling,130/85,Mild Condition
+66,Female,20.2,Headache,Shortness of Breath,160/100,Healthy
+79,Male,34.8,Fatigue,Dizziness,150/95,Mild Condition
+37,Male,25.8,Cough,Swelling,150/95,Healthy
+65,Male,19.3,Fever,Sneezing,160/100,Mild Condition
+42,Female,19.1,Chest Pain,Dizziness,160/100,Healthy
+39,Male,30.8,None,Dizziness,160/100,Healthy
+30,Female,29.4,Fever,Sneezing,140/90,Healthy
+76,Male,31.7,None,Swelling,150/95,Healthy
+36,Female,20.2,Chest Pain,Nausea,150/95,Mild Condition
+66,Male,19.1,Chest Pain,Sneezing,140/90,Healthy
+53,Male,26.9,Cough,Sneezing,160/100,Mild Condition
+29,Male,24.9,Cough,Sneezing,130/85,Healthy
+78,Female,26.1,Fever,Dizziness,160/100,Mild Condition
+58,Female,34.9,None,Shortness of Breath,160/100,Healthy
+36,Male,34.5,Chest Pain,Nausea,140/90,Healthy
+29,Male,34.0,Fever,Swelling,150/95,Mild Condition
+26,Female,31.4,Fatigue,Swelling,160/100,Healthy
+24,Female,24.4,Fever,Shortness of Breath,150/95,Healthy
+45,Female,25.3,Headache,Sneezing,120/80,Healthy
+31,Male,27.6,Fever,Nausea,150/95,Healthy
+48,Female,32.2,Headache,Swelling,130/85,Mild Condition
+69,Male,19.6,Headache,None,130/85,Healthy
+36,Female,25.5,Headache,Swelling,160/100,Mild Condition
+75,Male,19.9,Fatigue,Sneezing,150/95,Chronic Illness
+64,Female,27.0,Fever,None,160/100,Healthy
+33,Female,33.3,Fever,Shortness of Breath,140/90,Emergency
+70,Female,31.4,Fatigue,Nausea,130/85,Mild Condition
+22,Female,22.3,Chest Pain,Shortness of Breath,160/100,Mild Condition
+52,Female,34.6,Cough,Shortness of Breath,140/90,Mild Condition
+29,Male,29.5,Fever,Nausea,160/100,Mild Condition
+42,Female,18.7,Cough,Nausea,150/95,Mild Condition
+69,Female,22.7,None,Swelling,150/95,Healthy
+76,Female,22.8,None,Swelling,150/95,Healthy
+38,Male,19.6,Fatigue,Nausea,150/95,Healthy
+53,Female,34.3,None,None,120/80,Healthy
+70,Male,26.4,None,Dizziness,140/90,Healthy
+40,Female,33.3,Chest Pain,Swelling,140/90,Healthy
+33,Female,23.8,Chest Pain,Dizziness,150/95,Healthy
+74,Male,20.6,Chest Pain,None,120/80,Mild Condition
+56,Female,26.3,None,Nausea,150/95,Chronic Illness
+62,Male,20.4,Fatigue,None,120/80,Chronic Illness
+70,Male,26.5,Headache,Swelling,150/95,Healthy
+59,Female,33.7,Headache,Shortness of Breath,130/85,Mild Condition
+75,Male,27.1,Cough,Nausea,130/85,Chronic Illness
+56,Female,28.7,Headache,Sneezing,160/100,Healthy
+31,Female,21.1,Headache,Dizziness,150/95,Healthy
+48,Male,19.2,Chest Pain,None,140/90,Chronic Illness
+75,Male,20.3,Chest Pain,Nausea,160/100,Mild Condition
+22,Male,28.4,None,None,130/85,Healthy
+52,Male,20.1,Cough,Nausea,150/95,Healthy
+40,Female,24.7,Fever,Swelling,160/100,Healthy
+46,Female,27.6,Cough,Swelling,150/95,Chronic Illness
+60,Male,24.9,Cough,Swelling,130/85,Mild Condition
+28,Female,21.2,Fatigue,None,160/100,Healthy
+35,Female,23.0,None,Sneezing,130/85,Healthy
+64,Female,33.8,Fatigue,Swelling,120/80,Mild Condition
+29,Female,29.7,Cough,Nausea,130/85,Mild Condition
+26,Male,26.7,Cough,Swelling,150/95,Healthy
+27,Male,18.7,Cough,Shortness of Breath,140/90,Chronic Illness
+75,Female,34.9,Headache,Swelling,130/85,Healthy
+61,Male,29.6,Fatigue,None,140/90,Healthy
+34,Male,23.7,Cough,Sneezing,120/80,Mild Condition
+78,Male,33.0,Chest Pain,Shortness of Breath,160/100,Healthy
+55,Female,22.8,None,None,160/100,Chronic Illness
+24,Female,27.5,None,None,140/90,Mild Condition
+63,Female,29.0,Chest Pain,None,160/100,Mild Condition
+30,Male,22.1,None,Nausea,130/85,Healthy
+57,Female,34.6,Headache,None,140/90,Healthy
+59,Female,30.8,Headache,Nausea,150/95,Healthy
+26,Male,27.7,Fever,None,130/85,Mild Condition
+67,Female,21.5,Fever,Dizziness,130/85,Mild Condition
+44,Female,19.4,Fever,Shortness of Breath,130/85,Chronic Illness
+75,Male,23.8,None,Dizziness,150/95,Mild Condition
+19,Male,30.9,Headache,None,120/80,Chronic Illness
+22,Male,22.9,Headache,Shortness of Breath,160/100,Mild Condition
+46,Female,27.4,Headache,Shortness of Breath,140/90,Healthy
+54,Female,30.5,Chest Pain,Sneezing,120/80,Healthy
+55,Female,20.3,Headache,Dizziness,140/90,Mild Condition
+36,Male,29.8,Chest Pain,Sneezing,160/100,Healthy
+25,Male,20.0,Fever,Shortness of Breath,150/95,Healthy
+65,Female,34.4,Fever,Nausea,130/85,Mild Condition
+62,Female,26.6,None,Shortness of Breath,130/85,Chronic Illness
+18,Male,21.0,Fever,Sneezing,150/95,Healthy
+39,Male,24.1,None,Dizziness,120/80,Mild Condition
+69,Male,25.3,Cough,None,120/80,Chronic Illness
+34,Male,31.0,Cough,None,140/90,Healthy
+24,Female,30.8,Fatigue,Dizziness,150/95,Healthy
+42,Male,28.6,None,None,120/80,Healthy
+62,Female,20.2,Fatigue,None,150/95,Mild Condition
+21,Female,21.0,Fatigue,Sneezing,160/100,Mild Condition
+53,Female,20.0,Cough,Dizziness,130/85,Chronic Illness
+23,Male,28.0,None,Swelling,130/85,Mild Condition
+77,Male,33.0,Cough,Nausea,130/85,Healthy
+48,Male,25.7,Fatigue,Nausea,150/95,Healthy
+36,Male,21.2,None,None,150/95,Mild Condition
+78,Female,27.7,Fatigue,Nausea,140/90,Healthy
+61,Male,31.9,Headache,Dizziness,130/85,Healthy
+71,Male,30.7,None,Dizziness,140/90,Healthy
+56,Female,33.0,None,Shortness of Breath,130/85,Healthy
+44,Male,23.1,Fatigue,Shortness of Breath,140/90,Healthy
+27,Female,21.7,Headache,Nausea,140/90,Healthy
+43,Female,33.0,Chest Pain,Swelling,160/100,Healthy
+36,Female,29.3,Cough,Shortness of Breath,140/90,Healthy
+56,Female,23.6,Fatigue,Shortness of Breath,150/95,Mild Condition
+79,Female,30.7,None,Dizziness,140/90,Chronic Illness
+20,Female,31.9,Cough,Swelling,130/85,Healthy
+62,Female,28.6,Cough,None,140/90,Mild Condition
+30,Female,29.9,Cough,Nausea,120/80,Healthy
+67,Male,24.7,Chest Pain,Shortness of Breath,130/85,Mild Condition
+45,Male,27.4,Fever,Swelling,120/80,Chronic Illness
+79,Male,27.1,Fatigue,Swelling,130/85,Mild Condition
+75,Male,32.5,Fever,Nausea,150/95,Chronic Illness
+37,Female,32.4,Fever,Swelling,150/95,Healthy
+45,Male,32.2,Fever,Swelling,150/95,Healthy
+25,Female,18.7,Cough,Swelling,120/80,Chronic Illness
+78,Male,30.9,Headache,Shortness of Breath,160/100,Healthy
+58,Male,31.0,Cough,Nausea,130/85,Healthy
+56,Male,29.7,Cough,Swelling,150/95,Mild Condition
+18,Female,31.0,None,Swelling,130/85,Chronic Illness
+20,Male,32.4,None,Shortness of Breath,120/80,Chronic Illness
+30,Female,26.3,Fever,Nausea,160/100,Healthy
+45,Female,26.8,Cough,Dizziness,120/80,Chronic Illness
+79,Male,20.6,Fever,Shortness of Breath,130/85,Healthy
+74,Male,24.9,None,Nausea,160/100,Healthy
+77,Male,29.1,Headache,Swelling,160/100,Mild Condition
+66,Female,31.4,Fatigue,Nausea,120/80,Healthy
+42,Male,22.1,Fever,Nausea,150/95,Healthy
+73,Female,20.8,Headache,None,130/85,Mild Condition
+50,Female,29.4,Fatigue,Nausea,140/90,Healthy
+55,Male,18.5,Chest Pain,Dizziness,140/90,Healthy
+70,Male,21.4,Fever,Nausea,120/80,Healthy
+23,Female,19.0,Fever,Dizziness,130/85,Healthy
+75,Female,21.3,Chest Pain,Swelling,130/85,Healthy
+61,Female,21.5,Chest Pain,Dizziness,120/80,Mild Condition
+62,Male,24.9,Fever,Swelling,130/85,Mild Condition
+49,Female,25.1,Chest Pain,Swelling,150/95,Healthy
+62,Male,32.9,Cough,Dizziness,120/80,Chronic Illness
+78,Female,26.9,Fatigue,Shortness of Breath,150/95,Healthy
+64,Female,30.4,Fatigue,Sneezing,130/85,Healthy
+38,Male,20.2,Fatigue,Nausea,120/80,Chronic Illness
+33,Female,22.2,Cough,None,130/85,Healthy
+71,Male,30.1,Chest Pain,Sneezing,120/80,Emergency
+38,Male,19.4,Headache,Nausea,130/85,Healthy
+28,Female,26.5,Chest Pain,Nausea,150/95,Mild Condition
+77,Male,28.4,Fever,Swelling,150/95,Healthy
+54,Male,28.4,None,Nausea,130/85,Healthy
+53,Female,18.9,Fatigue,None,120/80,Healthy
+52,Male,23.8,Chest Pain,Nausea,140/90,Mild Condition
+36,Male,29.0,Headache,Dizziness,150/95,Mild Condition
+37,Male,21.0,Fever,Sneezing,150/95,Chronic Illness
+74,Female,30.0,Cough,Dizziness,140/90,Healthy
+35,Male,30.8,Cough,None,130/85,Healthy
+64,Female,34.7,Headache,Nausea,120/80,Healthy
+58,Female,22.0,Fever,None,130/85,Mild Condition
+66,Male,32.1,Fatigue,Swelling,160/100,Chronic Illness
+31,Male,27.1,Chest Pain,Dizziness,150/95,Healthy
+32,Male,24.7,Fever,Dizziness,160/100,Mild Condition
+48,Female,20.5,Cough,Shortness of Breath,150/95,Healthy
+18,Male,30.6,Headache,Nausea,150/95,Mild Condition
+70,Male,22.4,Headache,Swelling,160/100,Chronic Illness
+71,Male,24.6,Chest Pain,Dizziness,160/100,Healthy
+71,Male,19.5,Headache,Dizziness,130/85,Healthy
+20,Male,31.7,Headache,Swelling,160/100,Emergency
+33,Female,31.1,Fever,None,130/85,Chronic Illness
+40,Female,30.6,Fatigue,None,130/85,Mild Condition
+74,Male,23.4,Chest Pain,Nausea,130/85,Mild Condition
+28,Male,21.4,Fever,Shortness of Breath,150/95,Healthy
+29,Male,29.0,Fatigue,Dizziness,150/95,Mild Condition
+27,Male,26.7,Fever,Shortness of Breath,160/100,Chronic Illness
+49,Female,21.4,None,None,150/95,Mild Condition
+33,Male,29.8,Fever,None,160/100,Healthy
+25,Female,34.9,Headache,Sneezing,150/95,Healthy
+55,Female,30.8,Fatigue,Nausea,120/80,Healthy
+29,Male,30.7,Chest Pain,Sneezing,120/80,Healthy
+41,Female,34.2,Chest Pain,Sneezing,160/100,Healthy
+45,Female,21.8,Fatigue,Sneezing,150/95,Healthy
+70,Female,27.8,Headache,Nausea,150/95,Healthy
+25,Female,34.7,Cough,Nausea,130/85,Healthy
+75,Male,21.2,Fever,Swelling,140/90,Mild Condition
+45,Male,30.1,Headache,Shortness of Breath,160/100,Healthy
+53,Female,28.2,None,Shortness of Breath,140/90,Healthy
+43,Male,28.2,Fatigue,Swelling,140/90,Healthy
+25,Male,30.0,Fever,Swelling,160/100,Healthy
+75,Male,33.8,Chest Pain,None,150/95,Mild Condition
+77,Male,31.4,Cough,Sneezing,160/100,Healthy
+67,Male,19.4,None,Swelling,140/90,Mild Condition
+45,Female,32.6,Chest Pain,Dizziness,150/95,Chronic Illness
+45,Male,22.2,Fatigue,Shortness of Breath,120/80,Mild Condition
+54,Male,24.7,Fever,Swelling,160/100,Mild Condition
+58,Male,26.1,Fatigue,Dizziness,160/100,Chronic Illness
+53,Male,26.4,Fever,Dizziness,150/95,Mild Condition
+44,Female,25.7,Headache,Dizziness,120/80,Healthy
+71,Female,34.0,Cough,None,120/80,Healthy
+34,Female,30.1,Headache,None,150/95,Chronic Illness
+26,Female,28.9,Headache,Dizziness,130/85,Healthy
+50,Male,19.3,Fatigue,None,160/100,Healthy
+70,Female,33.4,Cough,Sneezing,160/100,Mild Condition
+37,Male,33.5,Fever,Dizziness,140/90,Chronic Illness
+30,Male,31.4,Fever,Sneezing,150/95,Healthy
+45,Male,18.6,None,Sneezing,140/90,Mild Condition
+65,Male,19.4,Chest Pain,Dizziness,140/90,Healthy
+46,Male,22.2,None,Shortness of Breath,120/80,Mild Condition
+30,Female,20.7,None,Dizziness,160/100,Healthy
+63,Female,25.1,Fever,Dizziness,140/90,Healthy
+52,Female,33.7,Fatigue,None,120/80,Chronic Illness
+78,Female,26.3,Headache,Dizziness,150/95,Healthy
+23,Male,18.7,Headache,Shortness of Breath,140/90,Mild Condition
+35,Female,23.2,Headache,None,160/100,Healthy
+68,Male,19.2,Cough,Nausea,140/90,Healthy
+22,Female,19.1,Fever,Nausea,150/95,Mild Condition
+64,Male,23.0,Fatigue,Sneezing,140/90,Healthy
+42,Male,23.0,Cough,Sneezing,160/100,Healthy
+19,Female,31.5,Chest Pain,Shortness of Breath,120/80,Healthy
+27,Male,34.6,Fatigue,Swelling,160/100,Mild Condition
+73,Male,24.6,None,Nausea,120/80,Chronic Illness
+47,Female,25.6,Fatigue,Sneezing,130/85,Emergency
+67,Male,32.4,Fatigue,Nausea,160/100,Healthy
+76,Female,22.9,Headache,Shortness of Breath,160/100,Healthy
+62,Female,21.1,Fatigue,Shortness of Breath,150/95,Healthy
+22,Female,32.6,None,Swelling,140/90,Chronic Illness
+72,Male,19.3,None,Swelling,120/80,Healthy
+73,Male,28.7,Fever,None,120/80,Emergency
+50,Male,27.8,Fatigue,Shortness of Breath,150/95,Healthy
+71,Female,24.2,Headache,Sneezing,150/95,Emergency
+18,Male,23.7,Fatigue,Nausea,140/90,Chronic Illness
+35,Female,31.2,Chest Pain,Dizziness,140/90,Chronic Illness
+49,Female,19.9,Chest Pain,Swelling,160/100,Healthy
+64,Male,22.4,Headache,Dizziness,130/85,Healthy
+66,Female,30.6,Fever,Sneezing,140/90,Healthy
